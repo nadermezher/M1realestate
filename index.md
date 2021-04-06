@@ -1,9 +1,7 @@
-
-<p>
-            This is a tutorial that explains how to make a simple form on your website that
-            integrates with Less Annoying CRM. You can find the full API documentation
-    <a href="https://www.lessannoyingcrm.com/help/topic/API">here</a>.
-</p>
+<html>
+<head>
+<title>Page Title</title>
+</head>
 <form action="process.php" method="post">
     <table>
     <tbody>
@@ -47,3 +45,4 @@
     </tbody>
     </table>
 </form>
+</html>
