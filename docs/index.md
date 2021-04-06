@@ -1,6 +1,4 @@
 
-<title>Lead Intake</title>
-
 <form action="process.php" method="post">
     <table>
     <tbody>
