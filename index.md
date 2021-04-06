@@ -1,6 +1,7 @@
 
 <form action="process.php" method="post">
-   
+ <table>
+    <tbody>  
     <tr>
         <td>
             Name
@@ -54,4 +55,6 @@
     <td>
     <input type="submit" value="Submit">
     </td>
-    </form>
+     </tbody>
+    </table>
+</form>
