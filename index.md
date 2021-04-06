@@ -57,5 +57,4 @@
     </td>
     </tbody>
     </table>
-</form>
 
