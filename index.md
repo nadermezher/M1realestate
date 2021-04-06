@@ -1,6 +1,9 @@
 
+<title>Lead Intake</title>
+
 <form action="process.php" method="post">
-   
+    <table>
+    <tbody>
     <tr>
         <td>
             Name
@@ -53,4 +56,8 @@
     </tr>
     <td>
     <input type="submit" value="Submit">
-  
+    </td>
+    </tbody>
+    </table>
+</form>
+
