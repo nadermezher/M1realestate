@@ -39,9 +39,11 @@
             <textarea name="Comment"></p></textarea>
         </td>
     </tr>
+    <tr>
     <td>
     <input type="submit" value="Submit">
     </td>
+    </tr>
     </tbody>
     </table>
 </form>
