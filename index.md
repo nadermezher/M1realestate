@@ -55,6 +55,3 @@
     <td>
     <input type="submit" value="Submit">
     </td>
-    </tbody>
-    </table>
-
