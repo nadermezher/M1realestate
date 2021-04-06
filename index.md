@@ -1,7 +1,6 @@
 
 <form action="process.php" method="post">
-    <table>
-    <tbody>
+   
     <tr>
         <td>
             Name
