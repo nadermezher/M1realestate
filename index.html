@@ -1,7 +1,9 @@
-<html>
-<head>
-<title>Lead Form</title>
-</head>
+<title>Webform Tutorial - Less Annoying CRM</title>
+<p>
+            This is a tutorial that explains how to make a simple form on your website that
+            integrates with Less Annoying CRM. You can find the full API documentation
+    <a href="https://www.lessannoyingcrm.com/help/topic/API">here</a>.
+</p>
 <form action="process.php" method="post">
     <table>
     <tbody>
@@ -30,35 +32,13 @@
         </td>
     </tr>
     <tr>
-    <td>
-            Property Address
+        <td>
+            Question/Comment
         </td>
         <td>
-            <input type="text" name="PropertyAddress">
+            <textarea name="Comment"></p></textarea>
         </td>
     </tr>
-    <tr>
-    <td>
-    <p>Interested In Selling?</p>
-    <input type="radio" id="Yes" name="Status" value="Yes"
-         checked>
-  <label for="Yes">Yes</label>
-  <input type="radio" id="No" name="Status" value="No">
-  <label for="dewey">No/Remove from List</label>
-  <input type="radio" id="NA" name="Status" value="NA">
-  <label for="NA">Not Applicable</label>
-    <tr>
-        <td>
-            Notes/Details
-        </td>
-        <td>
-            <textarea name="Comment"></textarea>
-        </td>
-    </tr>
-    <td>
-    <input type="submit" value="Submit">
-    </td>
     </tbody>
     </table>
 </form>
-</html>
