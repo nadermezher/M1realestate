@@ -1,15 +1,5 @@
 <?php
-//<?php
-/************************************************************************************
-    This file demonstrates how to use the Less Annoying CRM API to enter information
-    from a web form to your CRM. You can find the full API documentation at
-    https://www.lessannoyingcrm.com/help/topic/API
-      
-    If you have any questions, feel free to email api@lessannoyingcrm.com for help
-**************************************************************************************/
-  
-//Get your user UserCode and API token from https://www.lessannoyingcrm.com/app/Settings/Api
- 
+
 $UserCode = "A10AE";
 $APIToken = "659630-DGQq6T0GFZsKQHRpk5RBJ4n5QJ2MU2zQ3ZWGInk69myTZ0qFkn";
  
