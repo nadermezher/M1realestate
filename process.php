@@ -1,4 +1,4 @@
-<php
+<?php
 /************************************************************************************
     This file demonstrates how to use the Less Annoying CRM API to enter information
     from a web form to your CRM. You can find the full API documentation at
@@ -82,3 +82,4 @@ function CallAPI($UserCode, $APIToken, $Function, $Parameters){
     }
     return $APIResult;
 }
+?>
