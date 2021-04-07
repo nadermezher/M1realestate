@@ -18,7 +18,7 @@ $Parameters = array(
             ),
     "Phone"=>array(
                 0=>array(
-                    "Text"=>"$_REQUEST[Phone]",
+                    "Text"=>$_REQUEST['Phone'],
                     "Type"=>"Work"
                 )
             ),
