@@ -1,7 +1,5 @@
 <html>
-<head>
-<title>Online PHP Script Execution</title>
-</head>
+
 <body>
 <?php
 $UserCode = "A10AE";
