@@ -12,7 +12,7 @@ $Parameters = array(
     "FullName"=>$_REQUEST['ContactName'],
     "Email"=>array(
                 0=>array(
-                    "Text"=>"$_REQUEST[Email]",
+                    "Text"=>$_REQUEST['Email'],
                     "Type"=>"Work"
                 )
             ),
