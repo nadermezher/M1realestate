@@ -1,4 +1,5 @@
 <?php
+//<?php
 /************************************************************************************
     This file demonstrates how to use the Less Annoying CRM API to enter information
     from a web form to your CRM. You can find the full API documentation at
@@ -18,7 +19,7 @@ $Function = "CreateContact";
  
 //Just put the contact info into an array...
 $Parameters = array(
-    "FullName"=-->$_REQUEST['ContactName'],
+    "FullName"=>$_REQUEST['ContactName'],
     "Email"=>array(
                 0=>array(
                     "Text"=>"$_REQUEST[Email]",
