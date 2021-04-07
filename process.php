@@ -10,7 +10,7 @@
 //Get your user UserCode and API token from https://www.lessannoyingcrm.com/app/Settings/Api
  
 $UserCode = "A10AE";
-$APIToken = "659630-QFLPnpNMs3sg0JvD8ZNbrcxRTq0GrsrPOhhbb9DWVb1xmX1PbM";
+$APIToken = "659630-DGQq6T0GFZsKQHRpk5RBJ4n5QJ2MU2zQ3ZWGInk69myTZ0qFkn";
  
  
 //The first step is to create a contact
